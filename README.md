@@ -12,7 +12,9 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 *   🚀  I'm currently working on [Omentities](http:///www.linkedin.com/company/omentites/)
 *   🧠  I'm learning UX/UI Design
 *   🤝  I'm open to collaborating on Web Programming (Full Stack)
-*   ⚡  “One life, live it!” - Fred Rogers### Skills 
+*   ⚡  “One life, live it!” - Fred Rogers
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -34,12 +36,15 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 </p>
                     
 ### Socials
+
 <p align="left">                    
 <a href="https://www.facebook.com/burit.srihabut" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>        
 <a href="https://www.github.com/buritbest321" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>                        
 <a href="http://www.instagram.com/burit_best/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>                   
 <a href="https://www.linkedin.com/in/burit-sihabut-best/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
+
 <b>My GitHub Stats</b>
 <p align="center">  
 <a href="http://www.github.com/buritbest321"><img src="https://github-readme-stats.vercel.app/api?username=buritbest321&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="buritbest321's GitHub stats" /></a>
