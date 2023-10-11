@@ -6,11 +6,6 @@ Software Engineering Student at the Faculty of ICT, Mahidol University
 
 Burit Sihabut (Best) is a passionate software engineer who combines logic and creativity to provide the best solutions possible. As a third-year student at <b>Mahidol University's of Information and Communication Technology</b>, I take pride in its attention to detail, responsibility, critical thinking skills, and strong analytical abilities. I am committed to becoming a successful software engineer and have set SMART goals, including securing at least one internship in their field of interest within the next six months. By actively participating in online forums and industry organizations, I aim to establish myself as a thought leader in the sector and improve its online reputation. I eagerly seek to work with companies that share their values.
 
-While studying at <b>Mahidol University</b>, I plan to look for internships in the field of IT.
-1. <b>UX/UI Design Internship:</b> I would work with a team of UX/UI to make digital experiences for people that are easy to use, look good, and are fun to use. I work closely with cross-functional teams to understand user needs, set design goals, and make wireframes, models, and prototypes with tools like Figma.
-
-2. <b>Software Development Internship:</b> I would work with a team of developers to design, develop, and test software applications. I would have experience with software development methodologies such as Agile and Scrum.
-
 *   🌍  I'm based in Bangkok
 *   🖥️  See my portfolio at [MyUniversityPortfolio](http://drive.google.com/file/d/1-BBNjxVaMyf7DCdQMa2bqW_Iirs-2W1x/view?usp=share_link)
 *   ✉️  You can contact me at [burit.sih@gmail.com](mailto:burit.sih@gmail.com)
