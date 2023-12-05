@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student at the Faculty of ICT, Mahidol University
 ----------------------------------------------------------------------
 
-Burit Sihabut (Best) is a passionate software engineer who combines logic and creativity to provide the best solutions possible. As a third-year student at <b>Mahidol University's of Information and Communication Technology</b>, I take pride in its attention to detail, responsibility, critical thinking skills, and strong analytical abilities. I am committed to becoming a successful software engineer and have set SMART goals, including securing at least one internship in their field of interest within the next six months. By actively participating in online forums and industry organizations, I aim to establish myself as a thought leader in the sector and improve its online reputation. I eagerly seek to work with companies that share their values.
-
+Burit Sihabut (Best) is a passionate software engineer who combines logic and creativity to provide the best solutions possible. As a third-year student at <b>Mahidol University's of Information and Communication Technology</b>, I take pride in its attention to detail, responsibility, critical thinking skills, and strong analytical abilities. I am committed to becoming a successful software engineering.
 *   🌍  I'm based in Bangkok
 *   🖥️  See my portfolio at [MyUniversityPortfolio](http://drive.google.com/file/d/1-BBNjxVaMyf7DCdQMa2bqW_Iirs-2W1x/view?usp=share_link)
 *   ✉️  You can contact me at [burit.sih@gmail.com](mailto:bestburit32121@gmail.com)
