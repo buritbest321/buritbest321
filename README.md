@@ -7,7 +7,7 @@ Software Engineering Student at the Faculty of ICT, Mahidol University
 Burit Sihabut (Best) is a passionate software engineer who combines logic and creativity to provide the best solutions possible. As a third-year student at <b>Mahidol University's of Information and Communication Technology</b>, I take pride in its attention to detail, responsibility, critical thinking skills, and strong analytical abilities. I am committed to becoming a successful software engineering.
 *   🌍  I'm based in Bangkok
 *   🖥️  See my Resume at [Resume](https://drive.google.com/file/d/1c3xWzw0aDczPGgE_VUlpwkmgc62ZF6pf/view?usp=sharing)
-*   ✉️  You can contact me at [burit.sih1@gmail.com](mailto:burit.sih1@gmail.com)
+*   ✉️  You can contact me at [burit.sih@gmail.com](mailto:burit.sih@gmail.com)
 *   🚀  I'm currently working on [Omentities](http:///www.linkedin.com/company/omentites/)
 *   🧠  I'm learning Software Testing (Manual and Automated Testing)
 *   🤝  I'm open to collaborating on Web Programming (Full Stack)
