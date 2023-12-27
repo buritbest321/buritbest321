@@ -34,11 +34,15 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-### Project that I've created
+### Project that me and my team have created
 <p align="left">
-Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
-Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
-AnimeSearchEngine (ElasticSearch): https://drive.google.com/drive/folders/1aCIJ6wKUBRQBIbC-nQfbp2wye3c1mSyW?usp=sharing
+Job Center System (Dynamic Website): <a href="https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg"</a>
+Starbucks (Odoo): <a href="https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8"</a>
+AnimeSearchEngine (ElasticSearch): <a href="https://drive.google.com/drive/folders/1aCIJ6wKUBRQBIbC-nQfbp2wye3c1mSyW?usp=sharing"</a>
+Cloud Computing (AWS): <a href="https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing"</a>
+PsyLife (Product: Video game): <a href="https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing"</a>
+Stop Motion (Animation): <a href="https://www.youtube.com/watch?v=6p_6ml_0-ZY"</a>
+Netflix (Database): <a href="https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl"</a>
 
 </p>
                     
