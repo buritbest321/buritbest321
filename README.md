@@ -36,7 +36,7 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 
 ### Project that I've created
 <p align="left">
-*   [Job Center System (Dynamic Website)](https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg) 
+*   [Job Center System (Dynamic Website)](https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg)
 </p>
                     
 ### Socials
