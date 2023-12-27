@@ -36,13 +36,13 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 
 ### Project that me and my team have created
 1. Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
-2. Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
-3. AnimeSearchEngine (ElasticSearch): https://drive.google.com/drive/folders/1aCIJ6wKUBRQBIbC-nQfbp2wye3c1mSyW?usp=sharing
-4. Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
-5. PsyLife (Product: Video game): https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing
-6. Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
-7. Netflix (Database): https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl
-8. Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
+1. Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
+1. AnimeSearchEngine (ElasticSearch): https://drive.google.com/drive/folders/1aCIJ6wKUBRQBIbC-nQfbp2wye3c1mSyW?usp=sharing
+1. Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
+1. PsyLife (Product: Video game): https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing
+1. Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
+1. Netflix (Database): https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl
+1. Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
       
 ### Socials
 
