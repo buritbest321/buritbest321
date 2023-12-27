@@ -36,7 +36,10 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 
 ### Project that I've created
 <p align="left">
-*   [Job Center System (Dynamic Website)](https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg)
+Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
+Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
+AnimeSearchEngine (ElasticSearch): https://drive.google.com/drive/folders/1aCIJ6wKUBRQBIbC-nQfbp2wye3c1mSyW?usp=sharing
+
 </p>
                     
 ### Socials
