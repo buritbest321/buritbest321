@@ -51,3 +51,4 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 
 ### Badges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
