@@ -10,7 +10,7 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 *   ✉️  You can contact me at [burit.sih@gmail.com](mailto:burit.sih@gmail.com)
 *   🚀  I'm currently working on [Omentities](http:///www.linkedin.com/company/omentites/)
 *   🧠  I'm learning Software Testing (Manual and Automated Testing)
-*   🤝  I'm open to collaborating on Web Programming (Full Stack)
+*   🤝  I'm open to collaborating on Website and Mobile Programming (Full Stack)
 *   ⚡  “One life, live it!” - Fred Rogers
 ### Tools, languages, Other technology
 
