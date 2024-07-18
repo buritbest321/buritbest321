@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Hi👋+!+My+name+is+Best)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&vCenter=true&random=false&width=435&lines=Hi👋+!+My+name+is+Best)](https://git.io/typing-svg)
 ============================================================================================================================================
 
 Software Engineering Student at the Faculty of ICT, Mahidol University
