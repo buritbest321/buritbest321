@@ -86,4 +86,4 @@ Here is a structured and ordered list of your tools, languages, and other techno
 <a href="https://www.linkedin.com/in/burit-sihabut-best/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-[![Burit's GitHub stats](https://github-readme-stats.vercel.app/api?username=buritbest321)](https://github.com/anuraghazra/github-readme-stats)
+[![Burit's GitHub stats](https://github-readme-stats.vercel.app/api?username=buritbest321)](https://github.com/buritbest321/github-readme-stats)
