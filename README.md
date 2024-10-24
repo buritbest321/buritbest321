@@ -12,7 +12,6 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 *   🧠  I'm learning Software Testing (Manual and Automated Testing)
 *   🤝  I'm open to collaborating on Website and Mobile Programming (Full Stack)
 *   ⚡  “One life, live it!” - Fred Rogers
-Here is a structured and ordered list of your tools, languages, and other technologies, including the additions:
 
 ### Tools, Languages, and Other Technologies
 
