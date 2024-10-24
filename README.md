@@ -66,17 +66,6 @@ Burit Sihabut (Best) is a passionate software engineer who combines logic and cr
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-### Project that me and my team have created
-1. MUICT Connect (Mobile Application): https://github.com/ThitiwutBoss03/ITCS424_Project_018_025_079_215
-2. Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
-3. AnimeSearchEngine (ElasticSearch): https://github.com/ThitiwutBoss03/AnimeSearchEngine_Via_ElasticSearch
-4. Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
-5. PsyLife (Product: Video game): https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing
-6. Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
-7. Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
-8. Netflix (Database): https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl
-9. Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
-      
 ### Socials
 
 <p align="left">                    
